@@ -2,7 +2,7 @@
 
 Final Cut Pro用のGeneratorです。
 上下に黒帯を入れてCinema Scope(2.35:1)にします。
-どう使うものかについては、実際に利用しているところをYouTubeでご覧ください。
+どう使うものかについては、[実際に利用しているところをYouTubeで](https://youtu.be/2pv4BWTlRUI)ご覧ください。
 
 ## インストール方法
 
